@@ -14,7 +14,7 @@ spring:
       # Set the username for the Config Server
       username: admin
       # Set the password for the Config Server
-      password: "youshallnotpass"
+      password: "aimbot1129"
   config:
     # Replace http://localhost:8888 with the url to your Lavalink Config Server
     import: "configserver:http://localhost:8888/"
